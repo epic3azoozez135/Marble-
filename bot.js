@@ -2066,4 +2066,4 @@ client.on("guildMemberAdd", (member) => {
  
  
  
-client.login(process.env.BOT_TOKEN);
+client.login("NTI5MDg2NjAyMzA0MjkwODE2.DwruAQ.rhPeVz-9iTdxeycr--w9_-xjGYs");
